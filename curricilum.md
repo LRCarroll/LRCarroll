@@ -29,7 +29,7 @@ A visiting researcher at the University of Auckland for 6 weeks to learn the fun
 
 **Co Supervisor**: <a href="https://researchprofile.canterbury.ac.nz/Researcher.aspx?researchername=Mark%20Peter%20Staiger">Prof. Mark Staiger</a>
 
-**Thesis**: [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*]("assets/Liam Carroll - Honours Thesis.pdf")
+**Thesis**: [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*](assets/Liam Carroll - Honours Thesis.pdf)
 
 ### Bachelor of Science (March 2014 - December 2016)
 Major in chemistry and mathematics
