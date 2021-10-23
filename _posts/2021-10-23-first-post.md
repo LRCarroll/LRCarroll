@@ -20,8 +20,8 @@ Hyperlinks look like this [GitHub Help](https://help.github.com/).
 A bullet list is created using `*`, `+`, or `-`, like:
 
 - dog
-- cat
-- muffin
++ cat
+* muffin
 
 A numbered list is created using a number + `.`, like:
 
