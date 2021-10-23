@@ -2,10 +2,14 @@
 layout: page
 title: About
 ---
-![Liam Carroll >](https://github.com/LRCarroll/Liam-R-Carroll/blob/main/assets/Photo.jpg?raw=true)
+![Liam Carroll alt <](https://github.com/LRCarroll/Liam-R-Carroll/blob/main/assets/Photo.jpg?raw=true)
 
 img[alt$=">"] {
-  float: right;
+  display: block;
+  max-width: 25%;
+  height: auto;
+  margin: auto;
+  float: none!important;
 }
 
 img[alt$="<"] {
