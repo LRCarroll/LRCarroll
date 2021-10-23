@@ -5,6 +5,15 @@ tags: second markdown example
 categories: demo
 ---
 
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 This is a paragraph in my second post.
 In Markdown, adding an image looks similar to a link. 
 
