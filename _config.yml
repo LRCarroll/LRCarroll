@@ -8,5 +8,6 @@ description: "Stuff I find interesting"
 # Build settings
 remote_theme: jekyll/minima
 
-minima:
-  skin: dark
+# This turns on dark mode
+# minima:
+#   skin: dark
