@@ -16,9 +16,8 @@ Co-supervisor: <a href="https://www.canterbury.ac.nz/engineering/contact-us/peop
 
 Thesis: *Covalently-Bound Organic Modification of Transparent Metal Oxides: Effects on the Chemical and Electronic Surface Properties*
 
-### Visiting Researcher
-<a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
-
+### Visiting Researcher (November 2018 - December 2018)
+A visiting researcher at the University of Auckland for 6 weeks to learn the fundimental 
 
 
 ### Summer Research Internship
