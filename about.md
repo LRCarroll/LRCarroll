@@ -1,15 +1,8 @@
 ---
-layout: page
+layout: dark
 title: About
 ---
 
-Some Markdown content describing your site.
+I am currently in the process of completing my PhD in chemistry from the University of Canterbury, New Zealand. I ahve also completed a BSc(Hons) in chemistry and a BSc majoing in cheimstry and mathematics, also from the University of Canterbury. My graduate research focuses on the chemical modification of transparent semiconducitng materials to alter their electronic properties for use in devices.
 
-## About About Pages
-
-The About page is a common convention found on websites.
-It is your opportunity to let us know all the details "about" your project:
-
-- focus and topic area
-- people involved
-- code and projects used
+This is my personal website. The views expressed on this page are mine alone and not those of any organisation I am related to.
