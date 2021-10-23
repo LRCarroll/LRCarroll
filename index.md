@@ -2,4 +2,8 @@
 layout: home 
 ---
 
-Welcome to my new blog!
+# Heading
+
+Hi, my name is Liam Carroll
+
+
