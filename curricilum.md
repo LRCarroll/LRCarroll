@@ -8,7 +8,7 @@ Last updated October 23, 2021
 # Education 
 
 ## Doctor of Philosophy - Univesity of Canterbury 
-PhD, <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">
+PhD, <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>
 
 Supervisor: Prof. Alison Downard 
 
