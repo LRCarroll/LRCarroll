@@ -19,14 +19,31 @@ Thesis:
 ### Bachelor of Science with Honours (March 2017 - December 2017)
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
 
-Supervisor: <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
+**Supervisor**: <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
 
-Co Supervisor: <a href="https://researchprofile.canterbury.ac.nz/Researcher.aspx?researchername=Mark%20Peter%20Staiger">Prof. Mark Staiger</a>
+**Co Supervisor**: <a href="https://researchprofile.canterbury.ac.nz/Researcher.aspx?researchername=Mark%20Peter%20Staiger">Prof. Mark Staiger</a>
 
-Thesis: [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*]("assets/Liam Carroll - Honours Thesis.pdf")
+**Thesis**: [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*]("assets/Liam Carroll - Honours Thesis.pdf")
 
 ### Bachelor of Science (March 2014 - December 2016)
 Major in chemistry and mathematics
 
 GPA: 8.51 (out of 9)
 
+
+
+## Selected Honours and Awards
+
+| Date | Award |
+| ---  | ---   |
+| Decemeber 2020 | Outstanding Demonstrator/Teaching Assistant Award payment for 2020|
+| March 2018 | MacDiarmid Institute Postgraduate PhD Scholarship|
+| March 2018 | University of Canterbury Doctoral Scholarship|
+| December 2017 | C. E. Fenwick Prizes in Chemistry |
+| February 2017 | Water Jones Scholarship|
+| March 2014 | University of Canterbury School Leavers Scholarship|
+
+
+
+|||
+|||
