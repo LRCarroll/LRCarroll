@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 ![Liam Carroll](../assets/Photo.jpg)
+![Liam Carroll](https://github.com/LRCarroll/Liam-R-Carroll/blob/main/assets/Photo.jpg?raw=true)
 
 I am currently in the process of completing my PhD in chemistry from the University of Canterbury, New Zealand. I ahve also completed a BSc(Hons) in chemistry and a BSc majoing in cheimstry and mathematics, also from the University of Canterbury. My graduate research focuses on the chemical modification of transparent semiconducitng materials to alter their electronic properties for use in devices.
 
