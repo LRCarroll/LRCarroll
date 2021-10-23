@@ -5,6 +5,7 @@ author:
   email: Liam.Robert.Carroll@gmail.com
 description: "Stuff I find interesting"
 
+show_excerpts: true # set to true to show excerpts on the homepage
 
 
 # Build settings
@@ -14,8 +15,8 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-minima:
-  skin: dark
+
 
 # This turns on dark mode
-
+minima:
+  skin: dark
