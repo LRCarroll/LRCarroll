@@ -15,7 +15,7 @@ plugins:
  - jekyll-seo-tag
 
 minima:
-  skin: solarised
+  skin: solarized
 
 # This turns on dark mode
 
