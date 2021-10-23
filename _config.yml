@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: Liam R. Carroll
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Liam R. Carroll
+  email: Liam.Robert.Carroll@gmail.com
+description: "Stuff I find interesting"
 
 # Build settings
 remote_theme: jekyll/minima
