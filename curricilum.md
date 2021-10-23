@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 Last updated October 23, 2021
 
-## Education 
+## Research and Education 
 
 ### Doctor of Philosophy (March 2018 - Present) 
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
@@ -14,7 +14,14 @@ Supervisor: <a href="https://www.canterbury.ac.nz/science/contact-us/people/alis
 
 Co-supervisor: <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/martin-allen.html">Prof. Martin Allen</a>
 
-Thesis: 
+Thesis: *Covalently-Bound Organic Modification of Transparent Metal Oxides: Effects on the Chemical and Electronic Surface Properties*
+
+### Visiting Researcher
+<a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
+
+
+
+### Summer Research Internship
 
 ### Bachelor of Science with Honours (March 2017 - December 2017)
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
@@ -29,6 +36,7 @@ Thesis:
 Major in chemistry and mathematics
 
 GPA: 8.51 (out of 9)
+
 
 
 
