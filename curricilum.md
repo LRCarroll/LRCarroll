@@ -36,14 +36,9 @@ GPA: 8.51 (out of 9)
 
 | Date | Award |
 | ---  | ---   |
-| Decemeber 2020 | Outstanding Demonstrator/Teaching Assistant Award payment for 2020|
+| Decemeber 2020 | Outstanding Demonstrator/Teaching Assistant Award|
 | March 2018 | MacDiarmid Institute Postgraduate PhD Scholarship|
 | March 2018 | University of Canterbury Doctoral Scholarship|
 | December 2017 | C. E. Fenwick Prizes in Chemistry |
 | February 2017 | Water Jones Scholarship|
 | March 2014 | University of Canterbury School Leavers Scholarship|
-
-
-
-|||
-|||
