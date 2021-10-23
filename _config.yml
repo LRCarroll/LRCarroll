@@ -9,5 +9,4 @@ description: "Stuff I find interesting"
 remote_theme: jekyll/minima
 
 # This turns on dark mode
-# minima:
-#   skin: dark
+
