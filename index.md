@@ -1,6 +1,5 @@
 ---
-layout: Home
-title: About
+layout: home
 ---
 
 Hi, my name is Liam Carroll!
