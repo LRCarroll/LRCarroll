@@ -48,6 +48,7 @@ Link: <a href="https://nzic.org.nz/app/uploads/2019/05/CiNZ-Apr-2019.pdf">here</
 
 
 ## Selected Honours and Awards
+
 | Date | Award |
 | ---  | ---   |
 | Decemeber 2020 | Outstanding Demonstrator/Teaching Assistant Award|
