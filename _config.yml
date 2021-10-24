@@ -18,5 +18,5 @@ plugins:
 
 
 # This turns on dark mode
-minima:
-  skin: dark
+#minima:
+ # skin: dark

@@ -35,26 +35,19 @@ A visiting researcher at the University of Auckland for 6 weeks to learn the fun
 Major in chemistry and mathematics
 
 GPA: 8.51 (out of 9)
-
-
 ## Publications and Presentations
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> <a href="https://orcid.org/0000-0001-6721-5696">ORCID ID</a>
 
-{3.} 
+3. Test 
 
-{2.} Martínez-Gazoni, R. F.; **Carroll, L.**; Scott, J. I.; Astley, S.; Evans, D. A.; Downard, A. J.; Reeves, R. J.; Allen, M. W. Relationship between the Hydroxyl Termination and Band Bending at (-201) β-Ga2O3 Surfaces. *Phys. Rev. B* **2020**, 102 (3), 35304. 
+2. Martínez-Gazoni, R. F.; **Carroll, L.**; Scott, J. I.; Astley, S.; Evans, D. A.; Downard, A. J.; Reeves, R. J.; Allen, M. W. Relationship between the Hydroxyl Termination and Band Bending at (-201) β-Ga2O3 Surfaces. *Phys. Rev. B* **2020**, 102 (3), 35304. DOI: <a href="https://doi.org/10.1103/PhysRevB.102.035304">10.1103/PhysRevB.102.035304</a>
 
-DOI: <a href="https://doi.org/10.1103/PhysRevB.102.035304">10.1103/PhysRevB.102.035304</a>
-
-{1.} **Carroll, L.** Biodegradable Magnesium in Temporary Medical Implants. *Chem. New Zeal.* **2019**, *83* (2), 78–80. 
+1. **Carroll, L.** Biodegradable Magnesium in Temporary Medical Implants. *Chem. New Zeal.* **2019**, *83* (2), 78–80. 
 
 Link: <a href="https://nzic.org.nz/app/uploads/2019/05/CiNZ-Apr-2019.pdf">here</a>
 
 
 ## Selected Honours and Awards
-
-
-
 | Date | Award |
 | ---  | ---   |
 | Decemeber 2020 | Outstanding Demonstrator/Teaching Assistant Award|
