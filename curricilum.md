@@ -40,7 +40,7 @@ GPA: 8.51 (out of 9)
 
 3. **Carroll, L.**; Martínez-Gazoni, R. F.; Gaston, N.; Reeves, R.; Downard, A.; Allen, M. Bi-directional control of the band bending at the (-201) and (010) surfaces of β-Ga<sub>2</sub>O<sub>3</sub> using aryldiazonium ion and phosphonic acid grafting *Submitted*
 
-2. Martínez-Gazoni, R. F.; **Carroll, L.**; Scott, J. I.; Astley, S.; Evans, D. A.; Downard, A. J.; Reeves, R. J.; Allen, M. W. Relationship between the Hydroxyl Termination and Band Bending at (-201) β-Ga2O3 Surfaces. *Phys. Rev. B* **2020**, 102 (3), 35304. DOI: <a href="https://doi.org/10.1103/PhysRevB.102.035304">10.1103/PhysRevB.102.035304</a>
+2. Martínez-Gazoni, R. F.; **Carroll, L.**; Scott, J. I.; Astley, S.; Evans, D. A.; Downard, A. J.; Reeves, R. J.; Allen, M. W. Relationship between the Hydroxyl Termination and Band Bending at (-201) β-Ga<sub>2</sub>O<sub>3</sub> Surfaces. *Phys. Rev. B* **2020**, 102 (3), 35304. DOI: <a href="https://doi.org/10.1103/PhysRevB.102.035304">10.1103/PhysRevB.102.035304</a>
 
 1. **Carroll, L.** Biodegradable Magnesium in Temporary Medical Implants. *Chem. New Zeal.* **2019**, *83* (2), 78–80. Link: <a href="https://nzic.org.nz/app/uploads/2019/05/CiNZ-Apr-2019.pdf">here</a>
 
