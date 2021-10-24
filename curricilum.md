@@ -37,6 +37,9 @@ Major in chemistry and mathematics
 GPA: 8.51 (out of 9)
 
 
+## Publications and Presentations
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> <a href="https://orcid.org/0000-0001-6721-5696">ORCID ID</a>
+
 
 
 ## Selected Honours and Awards
