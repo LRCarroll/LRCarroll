@@ -60,12 +60,7 @@ GPA: 8.51 (out of 9)
 | January 2018  | Summer Research Scholarship Conference | University of Canterbury, NZ          |
 | November, 2017 | Postgraduate Showcase Symposium |  University of Canterbury, NZ        |
 | August, 2017     | Postgraduate Poster Presentation           | University of Canterbury, NZ |
-|      |            |          |
-|      |            |          |
-|      |            |          |
-|      |            |          |
-|      |            |          |
-          
+
 ## Selected Honours and Awards
 
 | Date | Award |
