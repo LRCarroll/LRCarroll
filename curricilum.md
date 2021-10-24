@@ -49,8 +49,9 @@ GPA: 8.51 (out of 9)
 
 | Date | Conference | Location |
 | ---  | ---        | ---      |
-| September 2021     | 72<sup>nd</sup> Annual Meeting            | Virtual/Jeju Island, Korea          |
-|      |            |          |
+| November 2021 | School of Physical and Chemical Sciences Postgraduate Showcase Symposium | University of Cantbury, NZ|
+| September 2021     | ISE 72<sup>nd</sup> Annual Meeting https://annual72.ise-online.org/            | Virtual/Jeju Island, Korea          |
+| February 2021 | MI Annual Symposium and Future Leaders Programme 2021 | Rotorua,NZ |
 |      |            |          |
 |      |            |          |
 |      |            |          |
