@@ -49,16 +49,16 @@ GPA: 8.51 (out of 9)
 
 | Date | Conference | Location |
 | ---  | ---        | ---      |
-| November 2021 | School of Physical and Chemical Sciences Postgraduate Showcase Symposium | University of Canterbury, NZ|
+| November 2021 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
 | September 2021     | ISE 72<sup>nd</sup> Annual Meeting https://annual72.ise-online.org/            | Virtual/Jeju Island, Korea          |
 | February 2021 | MI Annual Symposium and Future Leaders Programme 2021 | Rotorua, NZ |
 | November 2020 | Materials@UC            | University of Canterbury, NZ|
 | September 2020    | ISE 71<sup>nd</sup> Annual Meeting https://annual72.ise-online.org/            | Virtual/Belgrade, Serbia  
 |    June 2019  | 21<sup>st</sup> Australia and New Zealand Electrochemistry Symposium  | Queensland University of Technology, Brisbane, Australia |
-|      |            |          |
-|      |            |          |
-|      |            |          |
-|      |            |          |
+|   February 2019   | 9<sup>th</sup> International Conference on Advanced Materials and Nanotechnology|    Wellington, NZ      |
+| January 2018  | Summer Research Scholarship Conference | University of Canterbury, NZ          |
+| November, 2017 | Postgraduate Showcase Symposium |  University of Canterbury, NZ        |
+| August, 2017     | Postgraduate Poster Presentation           | University of Canterbury, NZ |
 |      |            |          |
 |      |            |          |
 |      |            |          |
