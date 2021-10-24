@@ -35,7 +35,8 @@ A visiting researcher at the University of Auckland for 6 weeks to learn the fun
 Major in chemistry and mathematics
 
 GPA: 8.51 (out of 9)
-## Publications and Presentations
+
+## Publications
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> <a href="https://orcid.org/0000-0001-6721-5696">ORCID ID</a>
 
 3. **Carroll, L.**; Martínez-Gazoni, R. F.; Gaston, N.; Reeves, R.; Downard, A.; Allen, M. Bi-directional control of the band bending at the (-201) and (010) surfaces of β-Ga<sub>2</sub>O<sub>3</sub> using aryldiazonium ion and phosphonic acid grafting *Submitted*
@@ -44,7 +45,25 @@ GPA: 8.51 (out of 9)
 
 1. **Carroll, L.** Biodegradable Magnesium in Temporary Medical Implants. *Chem. New Zeal.* **2019**, *83* (2), 78–80. Link: <a href="https://nzic.org.nz/app/uploads/2019/05/CiNZ-Apr-2019.pdf">here</a>
 
+## Presentations
 
+| Date | Conference | Location |
+| ---  | ---        | ---      |
+| September 2021     | 72<sup>nd</sup> Annual Meeting            | Virtual/Jeju Island, Korea          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+|      |            |          |
+          
 ## Selected Honours and Awards
 
 | Date | Award |
