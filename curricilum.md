@@ -54,7 +54,7 @@ GPA: 8.51 (out of 9)
 | February 2021 | MacDiarmid Institute Annual Symposium and Future Leaders Programme 2021 | Rotorua, NZ |
 | November 2020 | Materials@UC            | University of Canterbury, NZ|
 | November 2020 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
-| September 2020    | ISE 71<sup>nd</sup> Annual Meeting https://annual72.ise-online.org/            | Virtual/Belgrade, Serbia  
+| September 2020    | <a href="https://annual72.ise-online.org/">ISE 71<sup>nd</sup> Annual Meeting </a> | Virtual/Belgrade, Serbia  
 |    June 2019  | 21<sup>st</sup> Australia and New Zealand Electrochemistry Symposium  | Queensland University of Technology, Brisbane, Australia |
 |   February 2019   | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/9th-international-conference-on-advanced-materials-and-nanotechnology-annual-report-2019/"> 9<sup>th</sup> International Conference on Advanced Materials and Nanotechnology</a> |    Wellington, NZ      |
 | January 2018  | Summer Research Scholarship Conference | University of Canterbury, NZ          |
