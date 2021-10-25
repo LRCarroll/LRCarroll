@@ -10,26 +10,52 @@ Last updated October 23, 2021
 ### Doctor of Philosophy (March 2018 - Present) 
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
 
-Supervisor: <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
+**Supervisor:** <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
 
-Co-supervisor: <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/martin-allen.html">Prof. Martin Allen</a>
+**Co-supervisor:** <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/martin-allen.html">Prof. Martin Allen</a>
 
-Thesis: *Covalently-Bound Organic Modification of Transparent Metal Oxides: Effects on the Chemical and Electronic Surface Properties*
+**Thesis:** *Covalently-Bound Organic Modification of Transparent Metal Oxides: Effects on the Chemical and Electronic Surface Properties*
+
+**Overiew:**
+
 
 ### Visiting Researcher (November 2018 - December 2018)
-A visiting researcher at the University of Auckland for 6 weeks to learn the fundimental 
+<a href="https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-physics.html">Department of Physics</a>, University of Auckland
+
+**Supervisor:** <a href="https://unidirectory.auckland.ac.nz/profile/n-gaston">A/Prof. Nicola Gaston</a>
+
+**Overview:**A visiting researcher for 6 weeks where the fundimental computation techniques for surface modifications were learnt. This work ended up being one chapter in my thesis. 
 
 
-### Summer Research Internship
+### Summer Research Internship (November 2017 - February 2018)
+<a href="https://www.canterbury.ac.nz/study/subjects/chemical-and-process-engineering/">Chemical and Process Engineering</a>, University of Canterbury
+
+**Supervisors:** <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/matt-james-watson.html">Prof. Matt Watson</a> and <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/catherine-bishop.html">A/Prof. Catherine Bishop</a> 
+
+**Topic:** *Ultra-High Temperature Electrolysis to Produce Titanium*
+
+**Overiew:** Conducted thermodynamic calculates relating to the electrolysis of slag and evaluate <a href="https://thermocalc.com/">Thermo-Calc</a> as a viable software package for this.
+
 
 ### Bachelor of Science with Honours (March 2017 - December 2017)
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
 
-**Supervisor**: <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
+**Supervisor:** <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
 
-**Co Supervisor**: <a href="https://researchprofile.canterbury.ac.nz/Researcher.aspx?researchername=Mark%20Peter%20Staiger">Prof. Mark Staiger</a>
+**Co Supervisor:** <a href="https://researchprofile.canterbury.ac.nz/Researcher.aspx?researchername=Mark%20Peter%20Staiger">A/Prof. Mark Staiger</a>
 
-**Thesis**: [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*](assets/Liam Carroll - Honours Thesis.pdf)
+**Thesis:** [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*](assets/Liam Carroll - Honours Thesis.pdf)
+
+**Abstract:** This study looked at the functionalisation of Mg using aryldiazonium chemistry to decrease the corrosion properties of the metal and successfully modified the surface. 
+
+### Summer Researcher
+<a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
+
+**Supervisor:** <a href="https://www.canterbury.ac.nz/science/contact-us/people/richard-hartshorn.html">Prof. Richard Hartshorn</a>
+
+**Topic:** Deliberate boxes and accidental wheels
+
+**Overview:** Summer researcher during my first year at UC to develop lab skills in organic/inorganic wet labs. 
 
 ### Bachelor of Science (March 2014 - December 2016)
 Major in chemistry and mathematics
