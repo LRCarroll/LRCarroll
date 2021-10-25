@@ -2,9 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-.adjust-line-height {
-  line-height: 0.5em;
-}
+
 Last updated October 23, 2021
 
 ## Research and Education 
