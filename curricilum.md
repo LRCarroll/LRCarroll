@@ -75,7 +75,6 @@ GPA: 8.51 (out of 9)
 
 | Date | Conference | Location |
 | ---  | ---        | ---      |
-| November 2021 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
 | September 2021     | <a href="https://annual72.ise-online.org/">ISE 72<sup>nd</sup> Annual Meeting </a>   | Virtual/Jeju Island, Korea          |
 | February 2021 | <a href="https://www.macdiarmid.ac.nz/news-and-events/events/macdiarmid-institute-annual-symposium-and-future-leaders-programme-2021/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2021</a>  | Rotorua, NZ |
 | November 2020 | <a href="https://sites.google.com/view/materialsuc-2020/home">Materials@UC 2020</a>            | University of Canterbury, NZ|
