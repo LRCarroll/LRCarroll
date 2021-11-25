@@ -81,7 +81,7 @@ GPA: 8.51 (out of 9)
 | November 2020 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
 | September 2020    | <a href="https://annual71.ise-online.org/">71<sup>st</sup> Annual Meeting of the International Society of Electrochemistry </a> | Virtual/Belgrade, Serbia  
 | November 2019 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
-|    June 2019  | <a href="https://www.rsc.org/events/detail/38218/21st-australia-and-new-zealand-electrochemistry-symposium-21aes">21<sup>st</sup> Australia and New Zealand Electrochemistry Symposium</a>  | Queensland University of Technology, Brisbane, Australia |
+|    April 2019  | <a href="https://www.rsc.org/events/detail/38218/21st-australia-and-new-zealand-electrochemistry-symposium-21aes">21<sup>st</sup> Australia and New Zealand Electrochemistry Symposium</a>  | Queensland University of Technology, Brisbane, Australia |
 |   February 2019   | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/9th-international-conference-on-advanced-materials-and-nanotechnology-annual-report-2019/"> 9<sup>th</sup> International Conference on Advanced Materials and Nanotechnology</a> |    Wellington, NZ      |
 | Novemeber 2018 | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/annual-symposium-poster-series-annual-report-2018/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2018</a>  | Auckland, NZ |
 | January 2018  | Summer Research Scholarship Conference | University of Canterbury, NZ          |
