@@ -80,9 +80,11 @@ GPA: 8.51 (out of 9)
 | February 2021 | <a href="https://www.macdiarmid.ac.nz/news-and-events/events/macdiarmid-institute-annual-symposium-and-future-leaders-programme-2021/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2021</a>  | Rotorua, NZ |
 | November 2020 | <a href="https://sites.google.com/view/materialsuc-2020/home">Materials@UC 2020</a>            | University of Canterbury, NZ|
 | November 2020 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
-| September 2020    | <a href="https://annual71.ise-online.org/">ISE 71<sup>nd</sup> Annual Meeting </a> | Virtual/Belgrade, Serbia  
+| September 2020    | <a href="https://annual71.ise-online.org/">ISE 71<sup>st</sup> Annual Meeting </a> | Virtual/Belgrade, Serbia  
+| November 2019 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
 |    June 2019  | <a href="https://www.rsc.org/events/detail/38218/21st-australia-and-new-zealand-electrochemistry-symposium-21aes">21<sup>st</sup> Australia and New Zealand Electrochemistry Symposium</a>  | Queensland University of Technology, Brisbane, Australia |
 |   February 2019   | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/9th-international-conference-on-advanced-materials-and-nanotechnology-annual-report-2019/"> 9<sup>th</sup> International Conference on Advanced Materials and Nanotechnology</a> |    Wellington, NZ      |
+| Novemeber 2018 | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/annual-symposium-poster-series-annual-report-2018/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2018</a>  | Rotorua, NZ |
 | January 2018  | Summer Research Scholarship Conference | University of Canterbury, NZ          |
 | November, 2017 | Postgraduate Showcase Symposium |  University of Canterbury, NZ        |
 | August, 2017     | Postgraduate Poster Presentation           | University of Canterbury, NZ |
