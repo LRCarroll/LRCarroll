@@ -65,7 +65,7 @@ GPA: 8.51 (out of 9)
 ## Publications
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> <a href="https://orcid.org/0000-0001-6721-5696">ORCID ID</a>
 
-3. **Carroll, L.**; Martínez-Gazoni, R. F.; Gaston, N.; Reeves, R.; Downard, A.; Allen, M. Bi-directional control of the band bending at the (-201) and (010) surfaces of β-Ga<sub>2</sub>O<sub>3</sub> using aryldiazonium ion and phosphonic acid grafting *Submitted*
+3. **Carroll, L. R.**; Martínez-Gazoni, R. F.; Gaston, N.; Reeves, R. J.; Downard, A. J.; Allen, M. W.  Bidirectional Control of the Band Bending at the (-201) and (010) Surfaces of β-Ga<sub>2</sub>O<sub>3</sub> Using Aryldiazonium Ion and Phosphonic Acid Grafting. *ACS Appl. Electron. Mater.* **2021**, <a href="https://doi.org/10.1021/acsaelm.1c01064.a">10.1021/acsaelm.1c01064.a</a>
 
 2. Martínez-Gazoni, R. F.; **Carroll, L.**; Scott, J. I.; Astley, S.; Evans, D. A.; Downard, A. J.; Reeves, R. J.; Allen, M. W. Relationship between the Hydroxyl Termination and Band Bending at (-201) β-Ga<sub>2</sub>O<sub>3</sub> Surfaces. *Phys. Rev. B* **2020**, 102 (3), 35304. DOI: <a href="https://doi.org/10.1103/PhysRevB.102.035304">10.1103/PhysRevB.102.035304</a>
 
