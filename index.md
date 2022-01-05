@@ -9,4 +9,4 @@ I am currently in the process of completing my PhD in chemistry from the Univers
 
 This is my personal website. The views expressed on this page are mine alone and not those of any organisation I am related to.
 
-{% post_url posts/2022-01-06-TongariroNC %}
+[Tongariro Northern Circuit]{% post_url posts/2022-01-06-TongariroNC %}
