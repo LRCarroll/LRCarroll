@@ -16,7 +16,7 @@ Last updated October 23, 2021
 
 **Thesis:** *Covalently-Bound Organic Modification of Transparent Metal Oxides: Effects on the Chemical and Electronic Surface Properties*
 
-**Absract:**
+**Abstract:**
 
 
 ### Visiting Researcher (November 2018 - December 2018)
