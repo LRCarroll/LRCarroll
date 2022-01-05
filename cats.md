@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cats
+published: false
 ---
 
 Images of cats I find on the internet
