@@ -16,7 +16,7 @@ Last updated October 23, 2021
 
 **Thesis:** *Covalently-Bound Organic Modification of Transparent Metal Oxides: Effects on the Chemical and Electronic Surface Properties*
 
-**Overiew:**
+**Absract:**
 
 
 ### Visiting Researcher (November 2018 - December 2018)
@@ -24,7 +24,7 @@ Last updated October 23, 2021
 
 **Supervisor:** <a href="https://unidirectory.auckland.ac.nz/profile/n-gaston">A/Prof. Nicola Gaston</a>
 
-**Overview:**A visiting researcher for 6 weeks where the fundimental computation techniques for surface modifications were learnt. This work ended up being one chapter in my thesis. 
+**Overview:** A visiting researcher for 6 weeks where the fundimental computation techniques for surface modifications were learnt. This work ended up being one chapter in my thesis. 
 
 
 ### Summer Research Internship (November 2017 - February 2018)
@@ -98,3 +98,40 @@ GPA: 8.51 (out of 9)
 | December 2017 | C. E. Fenwick Prizes in Chemistry |
 | February 2017 | Water Jones Scholarship|
 | March 2014 | University of Canterbury School Leavers Scholarship|
+
+## Key Skills
+* Determined to always learn more
+* Self-aware and resilient
+* Public presentation 
+* Teacher, leader, and team member
+
+* Electrochemistry
+* Mott-Schottly Analysis
+* X-ray Photoelectron Spectroscopy
+* Synchrotron
+* VASP
+* Atomic Force Microscopy
+* Diode Fabrication
+
+* Microsoft Office
+* LaTeX
+* Python
+* MATLAB
+* ChemDraw
+* Photoshop
+* Illustrator
+* Indesign
+* IGOR Pro
+
+
+## Interests, Clubs, and Other Achievements
+* **Four Completed Experiments using XPS and NEXAFS on the Soft X-ray Beamline (2018-2021)** - Australian Synchrotron, Melbourne, Australia
+* **Volunteer - COVID19 Responce** - Student Volunteer Army
+* **President (2018-2020), Vice President (2017), Secretary (2016) and Committee Memeber (2015)** - University of Canterbury Chemistry Society (ChemSoc)
+* **Student and ChemSoc Representitive (2017-2018)** - New Zealand Institute of Chemistry (NZIC), Canterbury Branch
+* **Brewing Master (2017-2018)** - University of Canterbury Homebrewing Society (BrewSoc)
+* **Manager and Player (2014-present)** - University of Canterbury Hockey Club
+* **Volunteer Leadership Expedition, School Building (2012)** - Thailand and Cambodia
+* **Hiking** - New Zealand
+
+
