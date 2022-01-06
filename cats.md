@@ -2,6 +2,7 @@
 layout: page
 title: Cats
 published: false
+tag: link
 ---
 
 Images of cats I find on the internet
