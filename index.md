@@ -20,5 +20,8 @@ This is a test link:
   {% endfor %}
 </ul>
 
+[Link to a post]({{ site.baseurl }}{% link _posts/2016-07-26-name-of-post.md %})
+[Link to a page]({{ site.baseurl }}{% link cats.md %})
+
 ## Is this working?
 
