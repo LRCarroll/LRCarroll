@@ -7,8 +7,15 @@ published: true
 
 
 
-# Welcome
+This is a test link: 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-**Hello world**, this is my first Jekyll blog post.
+[Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %})
 
-I hope you like it!
+## Is this working?
