@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cats
-published: false
+published: true
 tags: link cats
 ---
 

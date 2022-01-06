@@ -14,10 +14,10 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-relative-links
 
-gems:
-  - jekyll-relative-links
+ 
 
 # This turns on dark mode
-#minima:
- # skin: dark
+minima:
+  skin: dark
