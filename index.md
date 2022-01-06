@@ -12,7 +12,13 @@ I am currently in the process of completing my PhD in chemistry from the Univers
 This is my personal website. The views expressed on this page are mine alone and not those of any organisation I am related to.
 
 This is a test link: 
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Is this working?
 
