@@ -17,5 +17,5 @@ This is a test link:
 </ul>
 
 [Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %})
-[Project 2]({{ site.baseurl }}{% link cats.md %})
+
 

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Cats
-published: false
+published: true
 tags: link cats
+category: classic hollywood
 ---
 
 Images of cats I find on the internet
