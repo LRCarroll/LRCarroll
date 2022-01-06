@@ -4,8 +4,8 @@ author:
   name: Liam R. Carroll, 2021
   email: Liam.Robert.Carroll@gmail.com
 description: "Stuff I find interesting"
-url: LRCarroll.github.io
-baseurl: /website/
+#url: LRCarroll.github.io
+#baseurl: /website/
 show_excerpts: False # set to true to show excerpts on the homepage
 
 

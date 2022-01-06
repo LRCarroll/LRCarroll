@@ -12,4 +12,4 @@ I am currently in the process of completing my PhD in chemistry from the Univers
 This is my personal website. The views expressed on this page are mine alone and not those of any organisation I am related to.
 
 
-[Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %})
+<!-- [Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %}) -->
