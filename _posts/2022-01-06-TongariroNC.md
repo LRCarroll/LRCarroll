@@ -16,6 +16,6 @@ This is a test link:
   {% endfor %}
 </ul>
 
-<!-- [Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %})
- -->
+[Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %})
+
 ## Is this working?
