@@ -71,6 +71,23 @@ GPA: 8.51 (out of 9)
 
 1. **Carroll, L.** Biodegradable Magnesium in Temporary Medical Implants. *Chem. New Zeal.* **2019**, *83* (2), 78–80. Link: <a href="https://nzic.org.nz/app/uploads/2019/05/CiNZ-Apr-2019.pdf">here</a>
 
+## Work Experience
+### Senior Laboratory Supervisor (2017 – Present) 
+<a href="https://www.syft.com/">Syft Technologies</a>, Christchurch, New Zealand
+* Senior supervisors for 200, and 300-level synthetic and analytical/physical chemistry lab courses  
+* Team leader for fellow teaching assistants and students
+* Requires extensive knowledge of organic, inorganic, analytical, and physical techniques
+* <a href="https://www.syft.com/careers/internship"> Link</a> to video about my experiences 
+### Science Summer Internship | SYFT Technologies, Christchurch (2016 – 2017) 
+<a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>,
+* Expanding the customer and in-house chemical catalogue used for SIFT-MS instrument.
+* This involved using chemical knowledge to prepare and handle a range of chemicals.
+* Modification, repairs, and maintenance on instruments were also required for certain non-volatile compounds and if damage had occurred.
+### Private tutor | AHeadStart, Christchurch (2015 – 2018) 
+* Tutoring high school students in maths, statistics, chemistry, physics, and biology.
+* Responsibilities include one-on-one tutoring, using clear and precise communication, being able to answer questions, knowledge of the topic, keeping up to date with the current curriculum and knowledge of exam and assignment layout, whilst setting reachable targets, homework, and project timelines for the student.
+
+
 ## Presentations
 
 | Date | Conference | Location |
