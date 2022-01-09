@@ -10,6 +10,6 @@ I am currently in the process of completing my PhD in chemistry from the Univers
 
 This is my personal website. The views expressed on this page are mine alone and not those of any organisation I am related to.
 
-This website is definitely a work in progress, and will be updated whenI have time.
+This website is a work in progress, and will be updated when I have time.
 
-[Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %})
+<!-- [Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %}) -->
