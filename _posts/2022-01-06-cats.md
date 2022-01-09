@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Cats
 published: true
 tags: link cats
