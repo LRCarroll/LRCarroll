@@ -5,7 +5,7 @@ published: false
 permilink: Website/Publications/
 ---
 
-Last updated February 17, 2022
+Last updated February 2022
 
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> <a href="https://orcid.org/0000-0001-6721-5696">ORCID ID</a>
 
