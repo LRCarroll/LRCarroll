@@ -18,6 +18,10 @@ Last updated October 23, 2021
 
 **Abstract:**
 
+This thesis describes the chemical modification and characterisation of SnO2<sub>2</sub> thin-films and nanostructures and of β-Ga<sub>2</sub>O<sub>3</sub>. Due to the native OH termination of the metal oxide surfaces, SnO2<sub>2</sub> and β-Ga<sub>2</sub>O<sub>3</sub> exhibit surface band bending. Previous work in our research group has found that the OH coverage on metal oxide surfaces correlates with the amount of band bending at the surface. Bare SnO2<sub>2</sub> and β-Ga<sub>2</sub>O<sub>3</sub> surfaces exhibit downwards and upwards band bending, respectively, and the electron density at the surfaces can be increased by the formation of terminal OH groups on exposure to the atmosphere. Increased electron density results in greater conductivity, while a decrease in electron density makes the surface insulating. The OH coverage of metal oxides is highly susceptible to environmental changes, which can alter the conductivity at the surface and is undesirable for some transparent semiconducting devices. One approach to reducing the influence of the environment on OH coverage and changes in band bending is to coat the surface. Modification of SnO2<sub>2</sub> using covalently bound molecules has previously been investigated; however, no reports on the deliberate modification of β-Ga<sub>2</sub>O<sub>3</sub> could be found. There has been very little investigation on chemically altering metal oxide band bending and none at all on β-Ga<sub>2</sub>O<sub>3</sub>. This work investigates the effects on band bending when aryldiazonium ions, aryliodonium ions, phosphonic acids, and Na<sub>2</sub>S are used to modify the (101) surface of SnO2<sub>2</sub> thin-films, (001) surfaces of SnO2<sub>2</sub> nanotubes, and the (–201) and (010) surfaces of β-Ga<sub>2</sub>O<sub>3</sub>. 
+
+Full abstract available on request.
+
 
 ### Visiting Researcher (November 2018 - December 2018)
 <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-physics.html">Department of Physics</a>, University of Auckland
@@ -65,7 +69,7 @@ GPA: 8.51 (out of 9)
 ## Publications
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> <a href="https://orcid.org/0000-0001-6721-5696">ORCID ID</a>
 
-3. **Carroll, L. R.**; Martínez-Gazoni, R. F.; Gaston, N.; Reeves, R. J.; Downard, A. J.; Allen, M. W.  Bidirectional Control of the Band Bending at the (-201) and (010) Surfaces of β-Ga<sub>2</sub>O<sub>3</sub> Using Aryldiazonium Ion and Phosphonic Acid Grafting. *ACS Appl. Electron. Mater.* **2021**, <a href="https://doi.org/10.1021/acsaelm.1c01064.a">10.1021/acsaelm.1c01064.a</a>
+3. **Carroll, L. R.**; Martínez-Gazoni, R. F.; Gaston, N.; Reeves, R. J.; Downard, A. J.; Allen, M. W. Bidirectional Control of the Band Bending at the (-201) and (010) Surfaces of β-Ga<sub>2</sub>O<sub>3</sub> Using Aryldiazonium Ion and Phosphonic Acid Grafting. *ACS Appl. Electron. Mater.* **2021**, <a href="https://doi.org/10.1021/acsaelm.1c01064.a">10.1021/acsaelm.1c01064.a</a>
 
 2. Martínez-Gazoni, R. F.; **Carroll, L.**; Scott, J. I.; Astley, S.; Evans, D. A.; Downard, A. J.; Reeves, R. J.; Allen, M. W. Relationship between the Hydroxyl Termination and Band Bending at (-201) β-Ga<sub>2</sub>O<sub>3</sub> Surfaces. *Phys. Rev. B* **2020**, 102 (3), 35304. DOI: <a href="https://doi.org/10.1103/PhysRevB.102.035304">10.1103/PhysRevB.102.035304</a>
 
@@ -75,7 +79,7 @@ GPA: 8.51 (out of 9)
 ### Senior Laboratory Supervisor (2017 – Present) 
 <a href="https://www.syft.com/">Syft Technologies</a>, Christchurch, New Zealand
 
-* Senior supervisors for 200, and 300-level synthetic and analytical/physical chemistry lab courses  
+* Senior supervisors for 200, and 300-level synthetic and analytical/physical chemistry lab courses
 * Team leader for fellow teaching assistants and students
 * Requires extensive knowledge of organic, inorganic, analytical, and physical techniques
 * <a href="https://www.syft.com/careers/internship"> Link</a> to video about my experiences 
@@ -97,24 +101,24 @@ GPA: 8.51 (out of 9)
 ## Presentations
 
 | Date | Conference | Location |
-| ---  | ---        | ---      |
-| September 2021     | <a href="https://annual72.ise-online.org/">72<sup>nd</sup> Annual Meeting of the International Society of Electrochemistry </a>   | Virtual/Jeju Island, Korea          |
-| February 2021 | <a href="https://www.macdiarmid.ac.nz/news-and-events/events/macdiarmid-institute-annual-symposium-and-future-leaders-programme-2021/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2021</a>  | Rotorua, NZ |
-| November 2020 | <a href="https://sites.google.com/view/materialsuc-2020/home">Materials@UC 2020</a>            | University of Canterbury, NZ|
+| ---| ---| ---|
+| September 2021 | <a href="https://annual72.ise-online.org/">72<sup>nd</sup> Annual Meeting of the International Society of Electrochemistry </a> | Virtual/Jeju Island, Korea|
+| February 2021 | <a href="https://www.macdiarmid.ac.nz/news-and-events/events/macdiarmid-institute-annual-symposium-and-future-leaders-programme-2021/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2021</a>| Rotorua, NZ |
+| November 2020 | <a href="https://sites.google.com/view/materialsuc-2020/home">Materials@UC 2020</a>| University of Canterbury, NZ|
 | November 2020 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
-| September 2020    | <a href="https://annual71.ise-online.org/">71<sup>st</sup> Annual Meeting of the International Society of Electrochemistry </a> | Virtual/Belgrade, Serbia  
+| September 2020| <a href="https://annual71.ise-online.org/">71<sup>st</sup> Annual Meeting of the International Society of Electrochemistry </a> | Virtual/Belgrade, Serbia
 | November 2019 | Postgraduate Showcase Symposium | University of Canterbury, NZ|
-|    April 2019  | <a href="https://www.rsc.org/events/detail/38218/21st-australia-and-new-zealand-electrochemistry-symposium-21aes">21<sup>st</sup> Australia and New Zealand Electrochemistry Symposium</a>  | Queensland University of Technology, Brisbane, Australia |
-|   February 2019   | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/9th-international-conference-on-advanced-materials-and-nanotechnology-annual-report-2019/"> 9<sup>th</sup> International Conference on Advanced Materials and Nanotechnology</a> |    Wellington, NZ      |
-| Novemeber 2018 | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/annual-symposium-poster-series-annual-report-2018/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2018</a>  | Auckland, NZ |
-| January 2018  | Summer Research Scholarship Conference | University of Canterbury, NZ          |
-| November, 2017 | Postgraduate Showcase Symposium |  University of Canterbury, NZ        |
-| August, 2017     | Postgraduate Poster Presentation           | University of Canterbury, NZ |
+|April 2019| <a href="https://www.rsc.org/events/detail/38218/21st-australia-and-new-zealand-electrochemistry-symposium-21aes">21<sup>st</sup> Australia and New Zealand Electrochemistry Symposium</a>| Queensland University of Technology, Brisbane, Australia |
+| February 2019 | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/9th-international-conference-on-advanced-materials-and-nanotechnology-annual-report-2019/"> 9<sup>th</sup> International Conference on Advanced Materials and Nanotechnology</a> |Wellington, NZ|
+| Novemeber 2018 | <a href="https://www.macdiarmid.ac.nz/news-and-events/news/annual-reports-pages/annual-symposium-poster-series-annual-report-2018/">MacDiarmid Institute Annual Symposium and Future Leaders Programme 2018</a>| Auckland, NZ |
+| January 2018| Summer Research Scholarship Conference | University of Canterbury, NZ|
+| November, 2017 | Postgraduate Showcase Symposium |University of Canterbury, NZ|
+| August, 2017 | Postgraduate Poster Presentation | University of Canterbury, NZ |
 
 ## Selected Honours and Awards
 
 | Date | Award |
-| ---  | ---   |
+| ---| --- |
 | Decemeber 2020 | Outstanding Demonstrator/Teaching Assistant Award|
 | March 2018 | MacDiarmid Institute Postgraduate PhD Scholarship|
 | March 2018 | University of Canterbury Doctoral Scholarship|
