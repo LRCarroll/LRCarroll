@@ -6,5 +6,5 @@ permilink: /Research/
 ---
 
 
-<a href="Website/Publications/">See my current publications here</a>
+<a href="Publications/">See my current publications here</a>
 
