@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Publications
-published: false
-permilink: Website/Publications/
+published: true
+permilink: Publications/
 ---
 
 Last updated February 2022
