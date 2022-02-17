@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 published: true
-permilink: Publications/
+permilink: /Publications/
 ---
 
 Last updated February 2022
