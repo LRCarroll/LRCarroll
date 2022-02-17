@@ -131,24 +131,29 @@ GPA: 8.51 (out of 9)
 * Self-aware and resilient
 * Public presentation 
 * Teacher, leader, and team member
+* First Aid Certificate
 
 * Electrochemistry
-* Mott-Schottly Analysis
-* X-ray Photoelectron Spectroscopy
-* Synchrotron
-* VASP
-* Atomic Force Microscopy
-* Diode Fabrication
+* Mott-Schottky analysis
+* X-ray photoelectron spectroscopy
+* SEM, TEM, STEM, and EDS
+* Synchrotron experience
+* Atomic force microscopy
+* Synthetic chemistry
+* Micro/nanofabrication
 
+* VASP
+* GAMESS
 * Microsoft Office
+* NOVA 
+* Fusion 360
+* ChemDraw
+* Adobe suite
+* Blender
+* IGOR Pro
 * LaTeX
 * Python
 * MATLAB
-* ChemDraw
-* Photoshop
-* Illustrator
-* Indesign
-* IGOR Pro
 
 
 ## Interests, Clubs, and Other Achievements
