@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Test Post
-tags: Test Code
+title: How to Fabricate Shadow Masks
+tags: Fabrication
 published: true
 ---
 
-This is an initial post test
-
-
-
-<!-- [Project 1]({{ site.baseurl }}{% link _posts/2022-01-06-TongariroNC.md %}) -->
+This post documents the methods by which I fabricated several shadow masks used in my thesis.
 
 
