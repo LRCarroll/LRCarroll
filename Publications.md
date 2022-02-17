@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-published: false
+published: true
 permilink: /Publications/
 ---
 
