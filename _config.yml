@@ -6,7 +6,7 @@ author:
 description: "Stuff I find interesting"
 url: LRCarroll.github.io
 baseurl: /Website/
-show_excerpts: False # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 
 # Build settings

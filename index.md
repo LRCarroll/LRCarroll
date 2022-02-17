@@ -14,5 +14,4 @@ This is my personal website. The views expressed on this page are mine alone and
 
 This website is a work in progress, and will be updated when I have time.
 
-<a href="about">Test Link</a>
 
