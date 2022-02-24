@@ -12,6 +12,5 @@ I am currently looking to expand my horizons in Europe and if you have any inter
 
 This is my personal website. The views expressed on this page are mine alone and not those of any organisation I am related to.
 
-This website is a work in progress, and will be updated when I have time.
-
+<span style="color:red">This website is in the prgress of migrating and is no longer being updated</span>.
 
